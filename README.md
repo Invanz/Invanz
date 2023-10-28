@@ -83,7 +83,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/icons/github.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
