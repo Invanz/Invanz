@@ -41,7 +41,7 @@
 <!--         <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/> -->
              <p align="center">
   <br></br>
-  <img  height="150em" title="🔥 At least one? I'm on fire!" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=Invanz&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background" />
+  <img  height="150em" title="🔥 At least one? I'm on fire!" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Invanz&theme=tokyonight&hide_border=false" />
 </p>
   </tr>
   <tr>
