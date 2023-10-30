@@ -34,13 +34,13 @@
       <h2> 📄&nbsp; My stats</h2>   
       <p align="center">Total Count</p>
       <div align="center">
-         <a href="https://github.com/Invanz"> <img src="https://komarev.com/ghpvc/?username=Invanz&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/Invanz"> <img src="https://komarev.com/ghpvc?username=Invanz&style=for-the-badge&color=brightgreen"> </a>
       </div>
      <p align="center">
 <!--         <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/> -->
              <p align="center">
   <br></br>
-  <img  height="150em" title="🔥 At least one? I'm on fire!" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Invanz&theme=dark&hide_border=false" /> 
+  <img  height="150em" title="🔥 At least one? I'm on fire!" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=Invanz&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background" />
 </p>
   </tr>
   <tr>
