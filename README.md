@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;MERN%20Stack%20enthusiast;3+%2B%20years%20of%20non-dev%20experience;Transitioning%20to%20programming&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;MERN%20Stack%20enthusiast;3+%2B%20years%20of%20non-dev%20experience;Transitioning%20to%20coding&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 <h3 align="center">Hello there! I'm <a href="https://github.com/Invanz">Arturo Guerra</a></h3>
 <h5 align="center">Feel free to stalk my GitHub page and my <a href="https://invanz.github.io/portfolio-react/cv.pdf">resume</a>!</h5>
